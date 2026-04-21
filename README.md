@@ -91,7 +91,8 @@ Due to class imbalance, the following metrics were used:
 ## 📌 Collaborators
 Joaquin Hidalgo  
 Matheus Gomes
-
+Natiana Urdaneta
+Rajan Jinadra
 ---
 
 ## 📜 License
